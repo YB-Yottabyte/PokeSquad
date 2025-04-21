@@ -1,7 +1,7 @@
 # PokeSquad
 Submitted by: **Sai Rithwik Kukunuri**
 
-This web app **PokeSquad** lets users strategically assemble your Pokemon squad to defend against those 'trainers' and conquer every challenge!
+This web app **PokeSquad** lets users strategically assemble your Pokemon squad to defend against trainers and conquer every challenge!
 
 Time spent: **[7]** hours spent in total
 
