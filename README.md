@@ -1,9 +1,9 @@
 # PokeSquad
 Submitted by: **Sai Rithwik Kukunuri**
 
-This web app **PokeSquad** lets users discover random things by clicking a button. It shows an image with details like breed, color, or age. Users can ban certain details, and the app will avoid showing them in future results. Also, you save your history and multiple attributes can be added to ban list!
+This web app **PokeSquad** lets users strategically assemble your Pokemon squad to defend against those 'trainers' and conquer every challenge!
 
-Time spent: **[2]** hours spent in total
+Time spent: **[7]** hours spent in total
 
 Vist the Site: **https://veni-vici-steel.vercel.app/**
 
@@ -11,21 +11,17 @@ Vist the Site: **https://veni-vici-steel.vercel.app/**
 
 The following functionality **goals** have been completed:
 
-- [x] Make a static API call using async/await and save the results to a state variable
-- [x] Be able to add and edit query parameters for API calls
-- [x] Parse JSON data from an unfamiliar API
-- [x] Application features a button that creates a new API fetch request on click and displays at least three attributes and an image obtained from the returned JSON data
-- [x] Only one item/data from API call response is viewable at a time and at least one image is displayed per API call
-- [x] API call response results should appear random to the user
-- [x] Clicking on a displayed value for one attribute adds it to a displayed ban list
-- [x] Attributes on the ban list prevent further images/API results with that attribute from being displayed
+- [x] The web app contains a page that features a create form to add a new crewmate
+- [x] The web app includes a summary page of all the user’s added crewmatese
+- [x] A previously created crewmate can be updated from the list of crewmates in the summary page
+- [x] A previously created crewmate can be deleted from the crewmate list
+- [x] Each crewmate has a direct, unique URL link to an info page about them
 
 ## Stretch Features
-- [x] Multiple types of attributes are clickable and can be added to the ban list
-- [x] Users can see a stored history of their previously displayed results from this session
-- [x] A dedicated section of the application displays all the previous images/attributes seen before
-- [x] Each time the API call button is clicked, the history updates with the newest API result
-
+- [x] A crewmate can be given a category upon creation which restricts their attribute value options
+- [x] A section of the summary page, displays summary statistics about a user’s crew on their crew page
+- [x]The summary page displays a custom “success” metric about a user’s crew which changes the look of the crewmate list
+  
 ## Video Walkthrough
 
 Here's a walkthrough of the implemented features:
@@ -33,10 +29,6 @@ Here's a walkthrough of the implemented features:
 ![via GIPHY](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9saGV2M3p0ajhodnpxZzJkZmQ4cGdxYnBpYmVqMGIwaGdhcTZvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nyTNHFNxfZ2pu0u0tT/giphy.gif)
 
 GIF created with GIPHY
-
-## Notes
-
-Veni Vici! it's just a random content generator and a simple tool that lets you explore and learn about cats from different countries in the world. All the main features are in place, and I've added extra features to make it more easy to use and look over your history!
 
 ## License
 
