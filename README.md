@@ -26,9 +26,7 @@ The following functionality **goals** have been completed:
 
 Here's a walkthrough of the implemented features:
 
-![via GIPHY](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9saGV2M3p0ajhodnpxZzJkZmQ4cGdxYnBpYmVqMGIwaGdhcTZvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nyTNHFNxfZ2pu0u0tT/giphy.gif)
-
-GIF created with GIPHY
+![video1447739213-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff43bcc5-7d70-4e0a-af83-2fb93e53600f)
 
 ## License
 
