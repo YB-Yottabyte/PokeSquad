@@ -28,6 +28,10 @@ Here's a walkthrough of the implemented features:
 
 ![video1447739213-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/0ad202a8-5e86-43b1-92e6-c7e7beafda26)
 
+How to delete fromm a Squad:
+
+![video1757805482-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7314001e-f663-4740-a58b-786edcbf442f)
+
 ## License
 
     Copyright 2025 Sai Rithwik Kukunuri
