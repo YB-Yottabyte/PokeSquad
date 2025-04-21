@@ -26,7 +26,7 @@ The following functionality **goals** have been completed:
 
 Here's a walkthrough of the implemented features:
 
-![video1447739213-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff43bcc5-7d70-4e0a-af83-2fb93e53600f)
+![video1447739213-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/0ad202a8-5e86-43b1-92e6-c7e7beafda26)
 
 ## License
 
